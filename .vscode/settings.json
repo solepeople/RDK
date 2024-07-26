@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "csignal": "cpp",
+        "limits": "cpp",
+        "string_view": "cpp",
+        "tuple": "cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "ranges": "cpp",
+        "random": "cpp",
+        "complex": "cpp",
+        "iostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "cmake.configureOnOpen": true,
+    "cmake.sourceDirectory": "/root/rdkbot/src/originbot_base"
+}
